@@ -1,8 +1,8 @@
 {
   "name": "clientology-toolkit",
   "displayName": "Clientology Toolkit",
-  "version": "1.4.0",
-  "description": "Clientology skills and rules for non-technical users: plain-language communication, beginner-friendly GitHub publishing, critical feedback, image prompt enhancement, and practical web audits — design & accessibility, security basics, responsive, SEO + GEO.",
+  "version": "1.5.0",
+  "description": "Clientology skills for non-technical users: beginner-friendly GitHub publishing, critical feedback, image prompt enhancement, and practical web audits — design & accessibility, security basics, responsive, SEO + GEO.",
   "author": {
     "name": "Clientology",
     "email": "jakub@clientology.cz"
