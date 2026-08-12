@@ -1,0 +1,21 @@
+{
+  "name": "clientology-toolkit",
+  "displayName": "Clientology Toolkit",
+  "version": "1.0.0",
+  "description": "Clientology skills: ruthless critical feedback (Ďáblův advokát) and multi-style image prompt enhancement.",
+  "author": {
+    "name": "Clientology",
+    "email": "jakub@clientology.cz"
+  },
+  "repository": "https://github.com/jakubSt28/clientology-toolkit-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "clientology",
+    "cx",
+    "feedback",
+    "critique",
+    "image-prompt",
+    "skills"
+  ],
+  "logo": "assets/logo.svg"
+}
