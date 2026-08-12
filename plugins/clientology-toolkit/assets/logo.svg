@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Clientology</title>
+  <rect width="128" height="128" fill="#000"/>
+  <g transform="translate(64 64)">
+    <!-- teal thick ring segment -->
+    <circle r="34" fill="none" stroke="#005860" stroke-width="22" stroke-dasharray="170 44" stroke-dashoffset="22" stroke-linecap="butt"/>
+    <!-- lime thick ring segment -->
+    <circle r="34" fill="none" stroke="#C0D050" stroke-width="22" stroke-dasharray="38 176" stroke-dashoffset="-148" stroke-linecap="butt"/>
+  </g>
+</svg>
