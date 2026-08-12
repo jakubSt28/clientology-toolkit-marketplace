@@ -25,6 +25,10 @@ One plugin: `clientology-toolkit`
 - **Responsive check** — mobile and tablet issues
 - **SEO + GEO audit** — search engines and AI answer engines
 
+Plus one always-on rule:
+
+- **Netechnický uživatel** — keeps the agent in plain Czech, no jargon, runs technical steps itself
+
 ## Repo layout
 
 ```text
@@ -33,6 +37,8 @@ One plugin: `clientology-toolkit`
 plugins/
   clientology-toolkit/
     .cursor-plugin/plugin.json
+    rules/
+      netechnicky-uzivatel.mdc
     skills/
       publikuj-zmeny/SKILL.md
       dabluv-advokat/SKILL.md
