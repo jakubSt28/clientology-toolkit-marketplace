@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Clientology toolkit — Cursor skills for CX, product critique, and image prompt work",
-    "version": "1.1.2"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "clientology-toolkit",
       "source": "./plugins/clientology-toolkit",
-      "description": "Ďáblův advokát (critical feedback) and multi-style image prompt enhancer",
+      "description": "Critical feedback, image prompt enhancer, and web audits: design & accessibility, security, responsive, SEO + GEO",
       "logo": "https://raw.githubusercontent.com/jakubSt28/clientology-toolkit-marketplace/main/plugins/clientology-toolkit/assets/brand-v2.png"
     }
   ]

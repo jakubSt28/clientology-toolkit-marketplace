@@ -19,6 +19,10 @@ One plugin: `clientology-toolkit`
 
 - **Ďáblův advokát** — ruthless critical feedback
 - **Image Prompt Enhancer** — multi-style English image-generation prompts
+- **Design audit** — design, UX and accessibility review
+- **Security basics check** — secrets, exposed endpoints, input validation
+- **Responsive check** — mobile and tablet issues
+- **SEO + GEO audit** — search engines and AI answer engines
 
 ## Repo layout
 
@@ -31,7 +35,11 @@ plugins/
     skills/
       dabluv-advokat/SKILL.md
       image-prompt-enhancer/SKILL.md
-    assets/logo.svg
+      design-audit/SKILL.md
+      security-basics-check/SKILL.md
+      responsive-check/SKILL.md
+      seo-geo-audit/SKILL.md
+    assets/brand-v2.png
 ```
 
 ## Add another skill later
