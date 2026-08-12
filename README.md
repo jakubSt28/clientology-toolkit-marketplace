@@ -17,6 +17,7 @@ Team / Enterprise admins can also import it under [cursor.com/dashboard](https:/
 
 One plugin: `clientology-toolkit`
 
+- **Publikuj změny** — commits and pushes to GitHub for non-technical users
 - **Ďáblův advokát** — ruthless critical feedback
 - **Image Prompt Enhancer** — multi-style English image-generation prompts
 - **Design audit** — design, UX and accessibility review
@@ -33,6 +34,7 @@ plugins/
   clientology-toolkit/
     .cursor-plugin/plugin.json
     skills/
+      publikuj-zmeny/SKILL.md
       dabluv-advokat/SKILL.md
       image-prompt-enhancer/SKILL.md
       design-audit/SKILL.md

@@ -1,9 +1,10 @@
 # Clientology Toolkit
 
-Cursor plugin se šesti skilly:
+Cursor plugin se sedmi skilly:
 
 | Skill | Co dělá |
 | --- | --- |
+| **Publikuj změny** (`publikuj-zmeny`) | Uloží a nahraje změny na GitHub za uživatele, bez git žargonu |
 | **Ďáblův advokát** (`dabluv-advokat`) | Nemilosrdně kritická, konstruktivní zpětná vazba |
 | **Image Prompt Enhancer** (`image-prompt-enhancer`) | Přepíše hrubý nápad na detailní EN image prompt ve zvoleném stylu |
 | **Design audit** (`design-audit`) | Design, UX a přístupnost — hierarchie, kontrasty, CTA, alt texty, focus stavy |
